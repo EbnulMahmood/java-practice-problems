@@ -1,0 +1,3 @@
+Total Number: 2
+Summation: 8
+Average: 2

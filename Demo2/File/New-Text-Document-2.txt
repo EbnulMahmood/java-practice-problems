@@ -1,0 +1,3 @@
+Total Number: 3
+Summation: 9
+Average: 3

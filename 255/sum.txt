@@ -1,0 +1,3 @@
+Total number: 5
+Sum: 4268
+Avg: 853
